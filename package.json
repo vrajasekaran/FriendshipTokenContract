@@ -1,0 +1,11 @@
+{
+  "name": "friendshipToken",
+  "version": "1.0.0",
+  "description": "Token of Friendship",
+  "main": "index.js",
+  "author": "Vijay",
+  "license": "MIT",
+  "dependencies": {
+    "zeppelin-solidity": "^1.7.0"
+  }
+}
